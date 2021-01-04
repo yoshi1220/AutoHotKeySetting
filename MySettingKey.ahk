@@ -1,0 +1,13 @@
+RCtrl & B::Send,{Left}
+RCtrl & N::Send,{Down}
+RCtrl & P::Send,{Up}
+RCtrl & F::Send,{Right}
+RCtrl & H::Send,{BS}
+RCtrl & D::Send,{Del}
+RCtrl & J::Send,^{Right}+^{Left}{Del}
+RCtrl & A::Send,{Home}
+RCtrl & E::Send,{End}
+RCtrl & K::Send,+{End}{Del}
+RCtrl & L::Send,+{End}
+RCtrl & U::Send,+{Home}{Del}
+RCtrl & W::Send,^{Right}+^{Left}
